@@ -1,0 +1,38 @@
+
+nav {
+	background-color: #33374e;
+	color: white;
+}
+
+h2 {
+	color: white;
+	padding: 10px 10px;
+	margin: 5px 5px;
+}
+
+h3 {
+	background-color: blue;
+	color: white;
+	padding: 5px 5px;
+	margin: 2,5px 2,5px;
+}
+
+
+.knoppen{
+	margin-left: 5%;	
+}
+
+body{ 
+	background: ;
+	font-family: arial; 
+	font-size: 24px;
+ }
+
+ .eersteparagraaf{
+	border: 2px #104c99;
+	border-radius: 40px;
+ 	margin: 3% 40% 2% 2%;
+ 	padding: 1%;
+ 	background-color: #cad1ff; 
+ 	color: #104c99;
+  }
